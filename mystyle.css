@@ -93,7 +93,12 @@ background-size: 20px 20px;
 .navbar{
 	display: none;
 }
-
+.side-menu center h5{
+	color: #c0951a;
+}
+#collapsibleNavbar center h5{
+	color: white;
+}
 
 
 @media (max-width:767px){
